@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: Acerca de mi
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Ingeniero en computación con experiencia en diseño y desarrollo de aplicaciones empresariales. Apasionado por las ciencias de la computación y entusiasta de los proyectos de código abierto, la agilidad y la innovación... Desarrollo software como ejercicio y hobbie... Eterno aprendiz... Foodie en tiempos libres...
