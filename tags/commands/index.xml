@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>commands on Fausto Almeida</title><link>https://blog.fastal.me/tags/commands/</link><description>Recent content in commands on Fausto Almeida</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:13:36 -0500</lastBuildDate><atom:link href="https://blog.fastal.me/tags/commands/index.xml" rel="self" type="application/rss+xml"/><item><title>Cheatsheet de comandos Git</title><link>https://blog.fastal.me/cheatsheets/2021-03-30-git/</link><pubDate>Tue, 30 Mar 2021 00:13:36 -0500</pubDate><guid>https://blog.fastal.me/cheatsheets/2021-03-30-git/</guid><description>Eliminar commits de rama local luego de push hacia rama remota Esto no se debe hacer si los usuarios ya se han descargado copias de los cambios subidos.
+Hard reset hacia un commit específico
+git reset --hard 0a2fffb Push forzado a la rama remota
+git push -f origin master Configurar salto de líneas en Windows para interoperabilidad Editar variable global
+git config --global core.</description></item></channel></rss>
